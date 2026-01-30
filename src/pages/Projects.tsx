@@ -10,22 +10,22 @@ const projectsData: Project[] = [
   {
     title: "Portfolio Website",
     description: "Built with React and Tailwind CSS",
-    link: "#",
+    link: "https://your-portfolio.vercel.app", // Replace with your live portfolio URL
   },
   {
     title: "Full Stack App",
     description: "Node.js backend + React frontend",
-    link: "#",
+    link: "#", // Replace with live link if deployed
   },
   {
     title: "REST API Projects",
     description: "APIs with authentication and CRUD operations",
-    link: "#",
+    link: "#", // Replace with live link if deployed
   },
   {
     title: "Authentication Dashboard",
     description: "Node.js, Express.js, MongoDB, JWT",
-    link: "https://github.com/Fortiny97/authentication-dashboard",
+    link: "https://authentication-dashboard.vercel.app", // LIVE app link
   },
 ];
 
