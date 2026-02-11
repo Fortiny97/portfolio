@@ -13,7 +13,7 @@ const Hero = () => {
       {/* Hero content */}
       <div className="hero-content">
         <img src={profilePic} alt="Profile" className="profile-pic" />
-        <h1>I am a Full Stack Developer</h1>
+        <h1>I am FORTINY JERUSION a Full Stack Developer</h1>
         <p>Building fast, scalable, and secure web applications.</p>
       </div>
     </section>
